@@ -1,0 +1,1 @@
+default_app_config ='store.app.apps.StoreConfig'
